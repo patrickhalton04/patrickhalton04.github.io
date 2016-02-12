@@ -14,3 +14,7 @@
 #biggg{
     font-size: 1.7em;
 }
+
+.modal-backdrop{
+    display: none;
+}
